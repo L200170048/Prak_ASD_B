@@ -1,0 +1,8 @@
+Nama Anggota Kelompok :
+Maulana Lutfi Sholihin (L200170048)
+Zulfikar Bayu Budiman (L200170052)
+Muhammad Vicky Al Hasri (L200170065)
+
+Cara RUN Aplikasi :
+1. Buka mhs.py 
+2. RUN
