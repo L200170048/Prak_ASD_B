@@ -115,7 +115,7 @@ mh1 = mahasiswa("Alvicky", 65, "sragen", 10000)
 mh2 = mahasiswa("Kori", 53, "merauke", 13000)
 mh3 = mahasiswa("Bintang", 78, "gentan", 5000)
 mh4 = mahasiswa("Lutfi", 48, "karanganyar", 12000)
-mh5 = mahasiswa("Tika", 156, "jaten", 2000)
+mh5 = mahasiswa("Susi", 47, "jaten", 2000)
 
 nimMH = [mh1.NIM, mh2.NIM, mh3.NIM, mh4.NIM, mh5.NIM]
 usMH = [mh1.us, mh2.us, mh3.us, mh4.us, mh5.us]
